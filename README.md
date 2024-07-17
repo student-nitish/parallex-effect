@@ -24,4 +24,4 @@ some snapshots:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/parallax-effect.git
+   git clone https://github.com/student-nitish/parallax-effect.git
